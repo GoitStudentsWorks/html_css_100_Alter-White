@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/CroftCrafters/",
+    "build": "vite build --base=/html_css_100_Alter-White/",
     "preview": "vite preview"
   },
   "devDependencies": {
